@@ -1,15 +1,15 @@
 ### Date created
-Include the date you created this project and README file.
+Bikeshare was originally created on Dec 26, 2020.
 
 ### Project Title
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+A simple command line app to display basic bike sharing statistics in New York, Chicago, and Washington DC.
 
 ### Files used
-Include the files used
+- *bikeshare_2.py*: main python script to retrieve stats
+- *new_york_city, chicago.csv, washington.csv*: data files
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Original data source: http://capitalbikeshare.com/system-data
