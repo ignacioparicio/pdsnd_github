@@ -1,8 +1,7 @@
+## BikeShare
+
 ### Date created
 Originally created on Dec 26, 2020.
-
-### Project Title
-BikeShare
 
 ### Description
 A simple command line app to display basic bike sharing statistics in New York, Chicago, and Washington DC.
